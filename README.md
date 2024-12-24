@@ -1,5 +1,17 @@
 # Description
-This repository contains a project that uses the Pima Indians Diabetes dataset to predict diabetes in individuals based on various health metrics. The main objective is to build and optimize a decision tree classifier using Python, achieving accurate and reliable predictions.
+- The objective of this dataset is to build a predictive model for diagnosing diabetes in female patients who are at least 21 years old Pregrenant ladies and of Pima Indian heritage.
+- The model should predict whether a patient has diabetes (Outcome = 1) or does not have diabetes (Outcome = 0) based on several diagnostic measurements, including glucose level, blood pressure, skin thickness, insulin level, BMI, diabetes pedigree function, and age.
+
+# Data description
+1 Pregnancies = Number of pregnancies
+2 Glucose = Glucose level in blood
+3 BloodPressure = Blood pressure measurement
+4 SkinThickness = Thickness of the skin
+5 Insulin = Insulin level in blood
+6 BMI = Body mass index
+7 DiabetesPedigreeFunction = Diabetes percentage
+8 Age = Age
+9 Outcome = Final result (1: Yes, the individual has diabetes; 0: No, the individual does not have diabetes)
 
 # Project Workflow:
 1. Data Preparation:

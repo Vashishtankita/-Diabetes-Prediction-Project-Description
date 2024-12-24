@@ -50,4 +50,8 @@
 - LinkedIn: https://www.linkedin.com/in/ankita-vashisht-6209a51a2/
 - GitHub: https://github.com/Vashishtankita
 
-![image](https://github.com/user-attachments/assets/2ed99924-dc17-48de-9e19-8ef8a6bc130b)
+![image](https://github.com/user-attachments/assets/5a0b5292-d16a-4814-b72b-a3f62531ae6a)
+
+![image](https://github.com/user-attachments/assets/dcd39b8d-7682-4838-9150-717e74884aa2)
+
+![image](https://github.com/user-attachments/assets/93af4912-96b6-405b-b322-2d2283ad0311)

@@ -49,3 +49,5 @@
 - Email: ankuvashisht.4@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ankita-vashisht-6209a51a2/
 - GitHub: https://github.com/Vashishtankita
+
+![image](https://github.com/user-attachments/assets/2ed99924-dc17-48de-9e19-8ef8a6bc130b)

@@ -3,7 +3,7 @@
 - The model should predict whether a patient has diabetes (Outcome = 1) or does not have diabetes (Outcome = 0) based on several diagnostic measurements, including glucose level, blood pressure, skin thickness, insulin level, BMI, diabetes pedigree function, and age.
 
 # Data description
-1 Pregnancies = Number of pregnancies
+1. Pregnancies = Number of pregnancies
 2 Glucose = Glucose level in blood
 3 BloodPressure = Blood pressure measurement
 4 SkinThickness = Thickness of the skin

@@ -32,8 +32,8 @@ This repository contains a project that uses the Pima Indians Diabetes dataset t
 - Baseline Accuracy: Achieved with the initial decision tree model.
 - Optimized Accuracy: Improved after tuning hyperparameters.
 
-Contact:
-Feel free to reach out with suggestions or feedback:
-Email: ankuvashisht.4@gmail.com
-LinkedIn: https://www.linkedin.com/in/ankita-vashisht-6209a51a2/
-GitHub: https://github.com/Vashishtankita
+# Contact:
+- Feel free to reach out with suggestions or feedback:
+- Email: ankuvashisht.4@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ankita-vashisht-6209a51a2/
+- GitHub: https://github.com/Vashishtankita
